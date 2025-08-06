@@ -4,7 +4,7 @@ A super simple module to show and toggle the status of [Tailscale](https://tails
 
 ### Demo
 
-https://github.com/OmarSkalli/waybar-tailscale/raw/refs/heads/main/assets/tailscale.mp4
+https://github.com/user-attachments/assets/be3ec235-4ef7-4951-8bbd-d1cd1c4e44e8
 
 ## Installation
 
