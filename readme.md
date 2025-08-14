@@ -49,6 +49,9 @@ Step 1) Edit your configuration file (`~/.config/waybar/config.jsonc`).
 
 Step 2) Move the `tailscale.sh` script to `~/.config/waybar/scripts/tailscale.sh`
 
+Make the script executable:
+```chmod +x ~/.config/waybar/scripts/tailscale.sh```
+
 If you rather store the script elsewhere, make sure to edit `exec` and `on-click` to the right location from step 1.
 
 Step 3) Edit `~/.config/waybar/style.css` to animation the connecting state. This can be added at the end of the file.
